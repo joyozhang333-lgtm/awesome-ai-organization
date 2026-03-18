@@ -4,8 +4,8 @@
 
 [English](README.md) | [简体中文](README-zh.md)
 
-[![Resources](https://img.shields.io/badge/资源-100+-blue.svg)](#目录)
-[![Templates](https://img.shields.io/badge/模板-20+-orange.svg)](#可直接使用的模板)
+[![Resources](https://img.shields.io/badge/资源-150+-blue.svg)](#目录)
+[![Templates](https://img.shields.io/badge/模板-30+-orange.svg)](#可直接使用的模板)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE)
 
 ---
@@ -157,6 +157,24 @@ PR 创建 → AI 安全扫描 → AI 代码审查 → AI 测试生成 → 人工
 |------|------|---------|
 | 产品经理 | PRD、路线图 | MetaGPT / gstack |
 | 数据分析师 | 指标、A/B 测试 | claude-scientific-skills |
+
+### 运营部
+| 角色 | 职责 | 推荐工具 |
+|------|------|---------|
+| 流程分析师 | 工作流分析、瓶颈识别 | Claude Code + 数据库 MCP |
+| 自动化工程师 | 工作流自动化、集成 | n8n / Dify |
+| 财务助理 | 费用追踪、预算分析 | Claude Code + 表格 MCP |
+| 合规专员 | 政策检查、审计准备 | Claude Code + clawsec |
+
+### 客户支持部
+| 角色 | 职责 | 推荐工具 |
+|------|------|---------|
+| 一线客服 | FAQ 处理、工单分类 | Claude Code + 知识库 MCP |
+| 二线技术支持 | 复杂问题排查、日志分析 | Claude Code + 日志 MCP |
+| 知识库管理 | 帮助文章、内容缺口分析 | Claude Code + CMS |
+| 客户成功 | 入职引导、流失风险检测 | Claude Code + CRM MCP |
+
+> 详细蓝图（含工作流、治理规则、指标）：[/departments](departments/)
 
 ---
 

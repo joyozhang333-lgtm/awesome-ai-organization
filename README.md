@@ -4,8 +4,8 @@
 
 [English](README.md) | [简体中文](README-zh.md)
 
-[![Resources](https://img.shields.io/badge/resources-100+-blue.svg)](#contents)
-[![Templates](https://img.shields.io/badge/templates-20+-orange.svg)](#ready-to-use-templates)
+[![Resources](https://img.shields.io/badge/resources-150+-blue.svg)](#contents)
+[![Templates](https://img.shields.io/badge/templates-30+-orange.svg)](#ready-to-use-templates)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE)
 
 ---
@@ -173,6 +173,24 @@ How to structure AI teams by department.
 | Product Manager | PRD, roadmap | MetaGPT / gstack `/plan-ceo-review` |
 | UX Researcher | User feedback analysis | CrewAI custom agent |
 | Data Analyst | Metrics, A/B tests | claude-scientific-skills |
+
+### Operations Department
+| Role | Responsibility | Recommended Tool |
+|------|---------------|-----------------|
+| Process Analyst | Workflow analysis, bottleneck identification | Claude Code + database MCP |
+| Automation Engineer | Workflow automation, integrations | n8n / Dify |
+| Finance Assistant | Expense tracking, budget analysis | Claude Code + spreadsheet MCP |
+| Compliance Officer | Policy checks, audit preparation | Claude Code + clawsec |
+
+### Customer Support Department
+| Role | Responsibility | Recommended Tool |
+|------|---------------|-----------------|
+| Tier-1 Support | FAQ handling, ticket classification | Claude Code + knowledge base MCP |
+| Tier-2 Technical | Complex troubleshooting, log analysis | Claude Code + logs MCP |
+| Knowledge Base Manager | Help articles, content gap analysis | Claude Code + CMS |
+| Customer Success | Onboarding, churn risk detection | Claude Code + CRM MCP |
+
+> Detailed blueprints with workflows, governance rules, and metrics: [/departments](departments/)
 
 ---
 
