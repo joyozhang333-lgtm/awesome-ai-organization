@@ -1,0 +1,45 @@
+name: Weekly Star Update
+
+on:
+  schedule:
+    - cron: '37 8 * * 1'  # Every Monday ~8:37 AM UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update star counts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stars.py
+
+      - name: Create PR if changes exist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes" && exit 0
+          BRANCH="auto-update/stars-$(date +%Y%m%d)"
+          git checkout -b "$BRANCH"
+          git add README.md README-zh.md
+          git commit -m "chore: weekly star count update $(date +%Y-%m-%d)"
+          git push origin "$BRANCH"
+          gh pr create \
+            --title "Weekly Update: star counts $(date +%Y-%m-%d)" \
+            --body "Automated weekly update of GitHub star counts." \
+            --base main \
+            --head "$BRANCH"
