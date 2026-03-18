@@ -200,12 +200,49 @@ Tools and practices for managing AI employees responsibly.
 
 For comparison — closed-source platforms offering similar capabilities.
 
+### Full-Stack AI Employee Platforms
+
 | Platform | Focus | Pricing | Key Feature |
 |----------|-------|---------|-------------|
+| [Junior](https://thejunior.ai) | AI software engineer | Freemium | Autonomous coding agent, GitHub integration |
 | [Lindy.ai](https://lindy.ai) | General AI employees | $0-299/mo | 4,000+ integrations, no-code |
+| [Emika](https://emika.ai) | Enterprise AI employees | Enterprise | Ranked #1 AI employee platform 2026 |
+| [Ema](https://ema.co) | Universal AI employee | Enterprise | 200+ pre-built workflows, EmaFusion model |
 | [Relevance AI](https://relevanceai.com/workforce) | AI workforce teams | Enterprise | Collaborative AI agent teams |
 | [Sintra AI](https://sintra.ai) | Business AI helpers | Enterprise | 12 specialized AI employees |
-| [Emika](https://emika.ai) | Enterprise AI employees | Enterprise | Ranked #1 AI employee platform 2026 |
+
+### AI Team & Workforce Platforms
+
+| Platform | Focus | Key Feature |
+|----------|-------|-------------|
+| [Teammates.ai](https://teammates.ai) | AI team members | Pre-built AI teammates for sales, support, ops |
+| [Beam.ai](https://beam.ai) | AI agent workforce | 200+ pre-built agents, enterprise orchestration |
+| [Teamster.ai](https://teamster.ai) | AI team builder | Build custom AI teams for any workflow |
+| [FlockX](https://flockx.io) | AI agent teams | Multi-agent collaboration platform |
+| [Gumloop](https://gumloop.com) | AI workflow automation | Visual workflow builder with AI agents |
+| [EverWorker](https://everworker.ai) | AI digital workers | Autonomous task execution, 24/7 operation |
+
+### Specialized AI Employees
+
+| Platform | Specialty | Key Feature |
+|----------|-----------|-------------|
+| [TabHR](https://tabhr.ai) | AI HR employee | Recruiting, onboarding, employee management |
+| [SketricGen](https://sketricgen.com) | AI business analyst | Data analysis, report generation |
+| [Devin](https://devin.ai) | AI software engineer | Full-stack autonomous coding |
+| [Factory](https://factory.ai) | AI coding agents | Drafter (PRs), Code Review, Migration agents |
+
+### Open-Source Alternatives for Self-Hosting
+
+| Framework | Stars | Best For |
+|-----------|-------|----------|
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 50k+ | Self-hosted AI software engineer (formerly OpenDevin) |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 175k+ | Autonomous AI agent platform |
+| [Dify](https://github.com/langgenius/dify) | 90k+ | LLMOps platform — build AI workflows visually |
+| [Flowise](https://github.com/FlowiseAI/Flowise) | 35k+ | Drag-and-drop LLM flow builder |
+| [n8n](https://github.com/n8n-io/n8n) | 70k+ | Workflow automation with AI agent nodes |
+| [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 4k+ | Multi-agent simulation and collaboration |
+| [agentUniverse](https://github.com/alipay/agentUniverse) | 1k+ | Ant Group's multi-agent framework |
+| [AWS Agent Squad](https://github.com/awslabs/agent-squad) | — | AWS multi-agent orchestrator |
 
 ---
 

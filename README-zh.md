@@ -183,11 +183,47 @@ PR 创建 → AI 安全扫描 → AI 代码审查 → AI 测试生成 → 人工
 
 对比参考——提供类似能力的闭源平台。
 
+### 全栈 AI 员工平台
+
 | 平台 | 定位 | 价格 | 核心特点 |
 |------|------|------|---------|
+| [Junior](https://thejunior.ai) | AI 软件工程师 | 免费增值 | 自主编码 Agent，GitHub 集成 |
 | [Lindy.ai](https://lindy.ai) | 通用 AI 员工 | $0-299/月 | 4,000+ 集成，零代码 |
+| [Emika](https://emika.ai) | 企业 AI 员工 | 企业级 | 2026 年排名第一的 AI 员工平台 |
+| [Ema](https://ema.co) | 通用 AI 员工 | 企业级 | 200+ 预置工作流，EmaFusion 模型 |
 | [Relevance AI](https://relevanceai.com/workforce) | AI 劳动力团队 | 企业级 | 协作式 AI Agent 团队 |
 | [Sintra AI](https://sintra.ai) | 商业 AI 助手 | 企业级 | 12 个专业 AI 员工 |
+
+### AI 团队与劳动力平台
+
+| 平台 | 定位 | 核心特点 |
+|------|------|---------|
+| [Teammates.ai](https://teammates.ai) | AI 团队成员 | 预置销售、客服、运营 AI 队友 |
+| [Beam.ai](https://beam.ai) | AI Agent 劳动力 | 200+ 预置 Agent，企业编排 |
+| [Teamster.ai](https://teamster.ai) | AI 团队构建器 | 为任何工作流构建自定义 AI 团队 |
+| [FlockX](https://flockx.io) | AI Agent 团队 | 多 Agent 协作平台 |
+| [Gumloop](https://gumloop.com) | AI 工作流自动化 | 可视化工作流构建器 |
+| [EverWorker](https://everworker.ai) | AI 数字员工 | 自主任务执行，7×24 运行 |
+
+### 专业 AI 员工
+
+| 平台 | 专长 | 核心特点 |
+|------|------|---------|
+| [TabHR](https://tabhr.ai) | AI HR 员工 | 招聘、入职、员工管理 |
+| [SketricGen](https://sketricgen.com) | AI 商业分析师 | 数据分析、报告生成 |
+| [Devin](https://devin.ai) | AI 软件工程师 | 全栈自主编码 |
+| [Factory](https://factory.ai) | AI 编码 Agent | PR 起草、代码审查、迁移 Agent |
+
+### 可自托管的开源替代方案
+
+| 框架 | Star 数 | 最适合 |
+|------|---------|--------|
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 50k+ | 自托管 AI 软件工程师（原 OpenDevin） |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 175k+ | 自主 AI Agent 平台 |
+| [Dify](https://github.com/langgenius/dify) | 90k+ | LLMOps 平台——可视化构建 AI 工作流 |
+| [Flowise](https://github.com/FlowiseAI/Flowise) | 35k+ | 拖拽式 LLM 流程构建器 |
+| [n8n](https://github.com/n8n-io/n8n) | 70k+ | 工作流自动化 + AI Agent 节点 |
+| [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 4k+ | 多 Agent 模拟与协作 |
 
 ---
 
