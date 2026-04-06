@@ -37,12 +37,12 @@
 
 | 框架 | Star 数 | 语言 | 最适合 |
 |------|---------|------|--------|
-| [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 65k+ | Python | 模拟完整软件公司（PM → 架构师 → 工程师） |
-| [AutoGen / AG2](https://github.com/microsoft/autogen) | 56k+ | Python | 多智能体对话，灵活团队拓扑 |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | 46k+ | Python | 角色扮演 AI 团队，支持委派 |
-| [ChatDev](https://github.com/OpenBMB/ChatDev) | 32k+ | Python | 虚拟软件公司模拟 |
-| [gstack](https://github.com/garrytan/gstack) | 23k+ | Markdown | YC CEO 的 Claude Code 配置——CEO、工程经理、QA 角色 |
-| [CAMEL](https://github.com/camel-ai/camel) | 16k+ | Python | 角色扮演智能体对，OWL 劳动力 |
+| [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 67k+ | Python | 模拟完整软件公司（PM → 架构师 → 工程师） |
+| [AutoGen / AG2](https://github.com/microsoft/autogen) | 57k+ | Python | 多智能体对话，灵活团队拓扑 |
+| [CrewAI](https://github.com/crewAIInc/crewAI) | 48k+ | Python | 角色扮演 AI 团队，支持委派 |
+| [ChatDev](https://github.com/OpenBMB/ChatDev) | 33k+ | Python | 虚拟软件公司模拟 |
+| [gstack](https://github.com/garrytan/gstack) | 65k+ | Markdown | YC CEO 的 Claude Code 配置——CEO、工程经理、QA 角色 |
+| [CAMEL](https://github.com/camel-ai/camel) | 17k+ | Python | 角色扮演智能体对，OWL 劳动力 |
 
 ### 框架对比
 
@@ -236,11 +236,11 @@ PR 创建 → AI 安全扫描 → AI 代码审查 → AI 测试生成 → 人工
 
 | 框架 | Star 数 | 最适合 |
 |------|---------|--------|
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 69k+ | 自托管 AI 软件工程师（原 OpenDevin） |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 71k+ | 自托管 AI 软件工程师（原 OpenDevin） |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 183k+ | 自主 AI Agent 平台 |
-| [Dify](https://github.com/langgenius/dify) | 133k+ | LLMOps 平台——可视化构建 AI 工作流 |
-| [Flowise](https://github.com/FlowiseAI/Flowise) | 51k+ | 拖拽式 LLM 流程构建器 |
-| [n8n](https://github.com/n8n-io/n8n) | 180k+ | 工作流自动化 + AI Agent 节点 |
+| [Dify](https://github.com/langgenius/dify) | 136k+ | LLMOps 平台——可视化构建 AI 工作流 |
+| [Flowise](https://github.com/FlowiseAI/Flowise) | 52k+ | 拖拽式 LLM 流程构建器 |
+| [n8n](https://github.com/n8n-io/n8n) | 183k+ | 工作流自动化 + AI Agent 节点 |
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5.0k+ | 多 Agent 模拟与协作 |
 
 ---
