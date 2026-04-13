@@ -37,12 +37,12 @@ Frameworks for building teams of AI agents that collaborate.
 
 | Framework | Stars | Language | Best For |
 |-----------|-------|----------|----------|
-| [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 65k+ | Python | Simulating a full software company (PM → Architect → Engineer) |
-| [AutoGen / AG2](https://github.com/microsoft/autogen) | 56k+ | Python | Multi-agent conversations, flexible team topologies |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | 46k+ | Python | Role-playing AI crews with delegation |
-| [ChatDev](https://github.com/OpenBMB/ChatDev) | 32k+ | Python | Virtual software company simulation |
-| [gstack](https://github.com/garrytan/gstack) | 23k+ | Markdown | YC CEO's Claude Code setup — CEO, Eng Manager, QA roles |
-| [CAMEL](https://github.com/camel-ai/camel) | 16k+ | Python | Role-playing agent pairs, OWL workforce |
+| [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 67k+ | Python | Simulating a full software company (PM → Architect → Engineer) |
+| [AutoGen / AG2](https://github.com/microsoft/autogen) | 57k+ | Python | Multi-agent conversations, flexible team topologies |
+| [CrewAI](https://github.com/crewAIInc/crewAI) | 49k+ | Python | Role-playing AI crews with delegation |
+| [ChatDev](https://github.com/OpenBMB/ChatDev) | 33k+ | Python | Virtual software company simulation |
+| [gstack](https://github.com/garrytan/gstack) | 71k+ | Markdown | YC CEO's Claude Code setup — CEO, Eng Manager, QA roles |
+| [CAMEL](https://github.com/camel-ai/camel) | 17k+ | Python | Role-playing agent pairs, OWL workforce |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | — | Python | Lightweight multi-agent orchestration |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | — | Python | Graph-based workflow orchestration |
 | [Google ADK](https://github.com/google/adk-python) | — | Python | Google's agent development kit |
@@ -253,11 +253,11 @@ For comparison — closed-source platforms offering similar capabilities.
 
 | Framework | Stars | Best For |
 |-----------|-------|----------|
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 69k+ | Self-hosted AI software engineer (formerly OpenDevin) |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 71k+ | Self-hosted AI software engineer (formerly OpenDevin) |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 183k+ | Autonomous AI agent platform |
-| [Dify](https://github.com/langgenius/dify) | 133k+ | LLMOps platform — build AI workflows visually |
-| [Flowise](https://github.com/FlowiseAI/Flowise) | 51k+ | Drag-and-drop LLM flow builder |
-| [n8n](https://github.com/n8n-io/n8n) | 180k+ | Workflow automation with AI agent nodes |
+| [Dify](https://github.com/langgenius/dify) | 138k+ | LLMOps platform — build AI workflows visually |
+| [Flowise](https://github.com/FlowiseAI/Flowise) | 52k+ | Drag-and-drop LLM flow builder |
+| [n8n](https://github.com/n8n-io/n8n) | 184k+ | Workflow automation with AI agent nodes |
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5.0k+ | Multi-agent simulation and collaboration |
 | [agentUniverse](https://github.com/alipay/agentUniverse) | 1k+ | Ant Group's multi-agent framework |
 | [AWS Agent Squad](https://github.com/awslabs/agent-squad) | — | AWS multi-agent orchestrator |
