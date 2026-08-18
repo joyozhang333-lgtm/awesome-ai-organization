@@ -248,6 +248,7 @@ For comparison — closed-source platforms offering similar capabilities.
 | [SketricGen](https://sketricgen.com) | AI business analyst | Data analysis, report generation |
 | [Devin](https://devin.ai) | AI software engineer | Full-stack autonomous coding |
 | [Factory](https://factory.ai) | AI coding agents | Drafter (PRs), Code Review, Migration agents |
+| [Workforce Wave](https://www.workforcewave.com/) | AI receptionist / voice employee | Inbound call handling, appointment booking, lead capture, after-hours answering |
 
 ### Open-Source Alternatives for Self-Hosting
 
