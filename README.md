@@ -261,6 +261,7 @@ For comparison — closed-source platforms offering similar capabilities.
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5.0k+ | Multi-agent simulation and collaboration |
 | [agentUniverse](https://github.com/alipay/agentUniverse) | 1k+ | Ant Group's multi-agent framework |
 | [AWS Agent Squad](https://github.com/awslabs/agent-squad) | — | AWS multi-agent orchestrator |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | 2.2k | Open-source, local-first desktop AI workforce where Commander coordinates specialists for project reports, documents and code using supported providers with your API keys. |
 
 ---
 
