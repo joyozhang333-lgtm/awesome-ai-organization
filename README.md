@@ -79,6 +79,7 @@ Pre-built role definitions you can use to create AI employees.
 | [AI Architect](https://github.com/FoundationAgents/MetaGPT) | MetaGPT | Python | System design from PRD |
 | [AI Code Reviewer](https://github.com/garrytan/gstack) | Garry Tan | Claude Code | Pre-landing PR review for SQL safety, trust boundaries |
 | [AI QA Engineer](https://github.com/garrytan/gstack) | Garry Tan | Claude Code | Systematic QA testing with fix loop |
+| [agent-qa](https://vostride.com) | vostride | CLI / MCP | Natural-language QA for web, Android, and iOS with persistent memory and evidence-gated self-improvement |
 | [AI Release Manager](https://github.com/garrytan/gstack) | Garry Tan | Claude Code | Ship workflow — test, review, bump, push, PR |
 | [AI Doc Engineer](https://github.com/garrytan/gstack) | Garry Tan | Claude Code | Post-ship documentation updates |
 
