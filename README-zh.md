@@ -76,6 +76,7 @@
 | [AI 架构师](https://github.com/FoundationAgents/MetaGPT) | MetaGPT | Python | 从 PRD 生成系统设计 |
 | [AI 代码审查员](https://github.com/garrytan/gstack) | Garry Tan | Claude Code | PR 审查——SQL 安全、信任边界 |
 | [AI QA 工程师](https://github.com/garrytan/gstack) | Garry Tan | Claude Code | 系统化 QA 测试 + 修复循环 |
+| [agent-qa](https://vostride.com) | vostride | CLI / MCP | 以自然语言测试网页、Android 和 iOS，结合持久记忆与证据驱动的自我改进 |
 | [AI 发布经理](https://github.com/garrytan/gstack) | Garry Tan | Claude Code | 发布流程——测试、审查、版本、推送、PR |
 | [AI 文档工程师](https://github.com/garrytan/gstack) | Garry Tan | Claude Code | 发布后文档更新 |
 
